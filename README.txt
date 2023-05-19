@@ -1,5 +1,4 @@
 Name (ccid):
-Charvi Dhamija (cdhamija)
 Dhruvraj Singh (dhruvraj)
 Mobashhir Khan (mobashhi)
 
