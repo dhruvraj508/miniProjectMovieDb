@@ -1,6 +1,5 @@
 #---------------CMPUT 291 - MP2-------------------------
 # Group Members:
-# Charvi Dhamija (ccid: cdhamija)
 # Dhruvraj Singh (ccid: dhruvraj)
 # Mobashhir Khan (ccid: mobashhi)
 #--------------------------------------------------------
